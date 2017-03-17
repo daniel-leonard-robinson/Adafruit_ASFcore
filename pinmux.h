@@ -196,7 +196,7 @@
  * @{
  */
 
-#include <compiler.h>
+#include "compiler.h"
 
 #ifdef __cplusplus
 extern "C" {

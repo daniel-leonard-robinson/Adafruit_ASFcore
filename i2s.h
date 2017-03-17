@@ -331,8 +331,8 @@
 extern "C" {
 #endif
 
-#include <compiler.h>
-#include <system.h>
+#include "compiler.h"
+#include "system.h"
 
 #if I2S_CALLBACK_MODE == true
 #  include <system_interrupt.h>

@@ -46,12 +46,12 @@
 #ifndef SYSTEM_H_INCLUDED
 #define SYSTEM_H_INCLUDED
 
-#include <compiler.h>
-#include <clock.h>
-#include <gclk.h>
-#include <pinmux.h>
-#include <power.h>
-#include <reset.h>
+#include "compiler.h"
+#include "clock.h"
+#include "gclk.h"
+#include "pinmux.h"
+#include "power.h"
+#include "reset.h"
 
 #ifdef __cplusplus
 extern "C" {

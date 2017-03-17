@@ -46,7 +46,7 @@
 #ifndef POWER_H_INCLUDED
 #define POWER_H_INCLUDED
 
-#include <compiler.h>
+#include "compiler.h"
 
 #ifdef __cplusplus
 extern "C" {

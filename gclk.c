@@ -44,9 +44,9 @@
  * Support and FAQ: visit <a href="http://www.atmel.com/design-support/">Atmel Support</a>
  */
 
-#include <gclk.h>
-#include <clock.h>
-#include <system_interrupt.h>
+#include "gclk.h"
+#include "clock.h"
+#include "system_interrupt.h"
 
 /**
  * \brief Determines if the hardware module(s) are currently synchronizing to the bus.

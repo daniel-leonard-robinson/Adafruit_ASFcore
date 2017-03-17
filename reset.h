@@ -46,7 +46,7 @@
 #ifndef RESET_H_INCLUDED
 #define RESET_H_INCLUDED
 
-#include <compiler.h>
+#include "compiler.h"
 
 #ifdef __cplusplus
 extern "C" {

@@ -31,7 +31,8 @@
 
 //#include <parts.h>
 
-#include "interrupt/interrupt_sam_nvic.h"
+//#include "interrupt/interrupt_sam_nvic.h"
+#include "interrupt_sam_nvic.h"
 
 /**
  * \defgroup interrupt_group Global interrupt management
